@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Roboto:wght@400;700;900&display=swap');
+
+/* ================================ */
+
+[class*="__container"]{
+	max-width: 810px;
+	margin: 0 auto;
+}
+
+/* ================================ */
+
+.article{}
+.article__container{}
+
+.article__title {
+	font-family: "Lato";
+	font-style: normal;
+	font-weight: 900;
+	font-size: 46px;
+	color: #1E212C;
+}
+.article__img{}
+.article__main-text{}
+.article__text{}
+.article__text p{}
+.article__text blockquote{}
+
+/* ================================= */
